@@ -1,0 +1,15 @@
+D:\Laboratorka\lb9.3\lb9.3\bin\Debug\net8.0\lb9.3.exe
+D:\Laboratorka\lb9.3\lb9.3\bin\Debug\net8.0\lb9.3.deps.json
+D:\Laboratorka\lb9.3\lb9.3\bin\Debug\net8.0\lb9.3.runtimeconfig.json
+D:\Laboratorka\lb9.3\lb9.3\bin\Debug\net8.0\lb9.3.dll
+D:\Laboratorka\lb9.3\lb9.3\bin\Debug\net8.0\lb9.3.pdb
+D:\Laboratorka\lb9.3\lb9.3\obj\Debug\net8.0\lb9.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laboratorka\lb9.3\lb9.3\obj\Debug\net8.0\lb9.3.AssemblyInfoInputs.cache
+D:\Laboratorka\lb9.3\lb9.3\obj\Debug\net8.0\lb9.3.AssemblyInfo.cs
+D:\Laboratorka\lb9.3\lb9.3\obj\Debug\net8.0\lb9.3.csproj.CoreCompileInputs.cache
+D:\Laboratorka\lb9.3\lb9.3\obj\Debug\net8.0\lb9.3.sourcelink.json
+D:\Laboratorka\lb9.3\lb9.3\obj\Debug\net8.0\lb9.3.dll
+D:\Laboratorka\lb9.3\lb9.3\obj\Debug\net8.0\refint\lb9.3.dll
+D:\Laboratorka\lb9.3\lb9.3\obj\Debug\net8.0\lb9.3.pdb
+D:\Laboratorka\lb9.3\lb9.3\obj\Debug\net8.0\lb9.3.genruntimeconfig.cache
+D:\Laboratorka\lb9.3\lb9.3\obj\Debug\net8.0\ref\lb9.3.dll

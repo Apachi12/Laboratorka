@@ -1,0 +1,2 @@
+Це тестовий текст. Тут є деякі погані слова: дурень, ледачий, бреше.
+This is a test text with some bad words: idiot, lazy, liar.

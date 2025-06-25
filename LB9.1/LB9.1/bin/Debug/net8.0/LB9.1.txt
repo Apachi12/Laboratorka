@@ -1,0 +1,3 @@
+Це тестовий файл для лабораторної роботи №9. У ньому ми перевіряємо кількість речень, букв, голосних, приголосних та цифр.
+
+This is a test file for lab work #9. It contains sentences, uppercase and lowercase letters, vowels, consonants and numbers like 12345.

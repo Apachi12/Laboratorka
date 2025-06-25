@@ -1,0 +1,5 @@
+D:\Laboratorka\lb10\lb10\obj\Debug\net8.0\lb10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laboratorka\lb10\lb10\obj\Debug\net8.0\lb10.AssemblyInfoInputs.cache
+D:\Laboratorka\lb10\lb10\obj\Debug\net8.0\lb10.AssemblyInfo.cs
+D:\Laboratorka\lb10\lb10\obj\Debug\net8.0\lb10.csproj.CoreCompileInputs.cache
+D:\Laboratorka\lb10\lb10\obj\Debug\net8.0\lb10.sourcelink.json
